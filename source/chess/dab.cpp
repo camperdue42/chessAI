@@ -4,4 +4,4 @@
 
 #include "dab.h"
 
-//cameron is like actually stupid haha lolll
+//cam is so fucking ugly like hes basically a shit
