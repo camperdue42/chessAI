@@ -4,7 +4,4 @@
 
 #include "dab.h"
 
-/* tim
- * smells
- * soooooooooooooooo
- * gooood*/
+//cameron is like actually stupid haha lolll
